@@ -8,7 +8,7 @@
 
 - 🌱 Currently, I'm learning React.js.
 - 👯 Seeking to create connections and help people.
-- 🥅 2024 Goals: Learn new languages.
+- 🥅 2026 Goals: Develop new projects.
 - ⚡ Fun facts: I enjoy playing guitar and reading.
 
 #### ⭐ Tech Stack: 
