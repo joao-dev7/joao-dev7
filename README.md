@@ -20,5 +20,3 @@
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopedrosilvasalesss@gmail.com)
 
 <br />
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joao-dev7&show_icons=true&theme=dark)](https://github.com/joao-dev7)
