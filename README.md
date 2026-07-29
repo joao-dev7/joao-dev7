@@ -21,4 +21,4 @@
 
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-dev7&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joao-dev7&show_icons=true)
