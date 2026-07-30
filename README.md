@@ -6,10 +6,10 @@
 
 ### I'm full stack developer
 
-🌱 Currently learning and improving my skills in React.js.
-🤝 Open to connecting with other developers, collaborating on projects, and sharing knowledge.
-🎯 2026 Goal: Build meaningful projects and continue growing as a developer.
-⚡ Outside of programming, I enjoy playing guitar and reading.
+🌱 Currently learning and improving my skills in React.js. <br />
+🤝 Open to connecting with other developers, collaborating on projects, and sharing knowledge. <br />
+🎯 2026 Goal: Build meaningful projects and continue growing as a developer. <br />
+⚡ Outside of programming, I enjoy playing guitar and reading. 
 
 #### ⭐ Tech Stack: 
 [![habilidades](https://skillicons.dev/icons?i=js,ts,html,css,git,github,react&perline=3)](https://skillicons.dev)
